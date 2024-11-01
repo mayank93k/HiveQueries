@@ -1,2 +1,2 @@
-# Project_Hive
+# Hive
 Hive Sample Queries
