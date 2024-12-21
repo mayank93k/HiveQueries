@@ -1,6 +1,7 @@
 # Hive
-## Hive Sample Queries
- Olympic Data analysis using Hive
+## Olympic Data Analysis Using Hive
+### Overview
+#### This project demonstrates how to analyze Olympic data using Hive. It includes creating a Hive table, loading data, and performing insightful queries on the dataset.
 --------------------------------
 
        Details of Olympic data sets:
